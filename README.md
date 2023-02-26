@@ -8,8 +8,3 @@
 Создал и владеет сервером [ChipOkay](https://www.youtube.com/@ChipOkay).
 ### Создатели сайта челленджлиста
 Сайт создал [@stysan](https://github.com/stysan). Мнения в листе принадлежат [@stysan](https://github.com/stysan) и [@cedfab](https://github.com/cedfab).  
-Редактором листа теперь является [@stysan](https://github.com/stysan).  
-<details>
-  <summary>Причина (шокирующий контент, но без изображений)</summary>
-  <a href="https://github.com/cedfab">@cedfab</a> совершил самоубийство. Rest in Peace Buddy.
-</details>
